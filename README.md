@@ -1,9 +1,8 @@
-# Yo, I'm ged 👋
+# Idk what im doing here, Im ged 👋
 
-<a href="https://www.boot.dev/u/ged">
-  <img align="center" src="https://api.boot.dev/v1/badge/u/ged" alt="ged's Boot.dev Profile Card" />
-</a>
-
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/cf0df305-7121-4584-afce-2441df7b42a3/thumbnail" >
+</p>
 ---
 
 💻 **Currently learning:** Python @ Boot.dev  
