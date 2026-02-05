@@ -1,10 +1,10 @@
 # Idk what im doing here, Im ged 👋
 
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/cf0df305-7121-4584-afce-2441df7b42a3/thumbnail" >
+  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fie.pinterest.com%2Fholly2210mannion%2Fmy-saves%2F&ved=0CBYQjRxqFwoTCLC4ira-w5IDFQAAAAAdAAAAABBA&opi=89978449" >
 </p>
 ---
 
-💻 **Currently learning:** Python @ Boot.dev  
+💻 **Currently learning:** Python  
 🎮 **Interests:** Games, coding, chill  
 🇵🇱 **Location:** Poland
